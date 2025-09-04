@@ -1,4 +1,4 @@
-# deep_learning
+# Deep Learning
 
 ## Descripción del Proyecto
 
